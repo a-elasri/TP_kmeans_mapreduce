@@ -1,0 +1,1 @@
+/home/hdadmin/hdata/mapred/local/1649195600866/centers.txt
